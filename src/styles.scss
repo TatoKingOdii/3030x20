@@ -92,6 +92,10 @@ app-nav-container
 app-toolbar {
   z-index: 200;
 }
+.spinner {
+  width: 50px;
+  height: 50px;
+}
 
 // Side Nav
 mat-sidenav {
